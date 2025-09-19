@@ -12,4 +12,5 @@ Este curso ha sido muy esencial para mi formación de estudiante en Ingenieria e
 
 Ingeniería en Mecatrónica - Centro de Enseñanza Técnica Industrial
 
-Mi repositorio
+# Mi repositorio
+## https://github.com/SofiaGalileaMoralesBejarano/IA_P1.git
